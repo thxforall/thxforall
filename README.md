@@ -4,7 +4,7 @@
 <p><em>Join me on a adventure, where code and error mingle with laughter and learning</em> 😄</p>
 </br>
 
-```javacript
+```typescript
 class My {
     name = 'Kiyori';
     hometown = 'Incheon, South Korea';
