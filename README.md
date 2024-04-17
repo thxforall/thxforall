@@ -1,5 +1,4 @@
 <h2> Welcome to my playground 👋 </h2>
-</br>
 <h3>Hi I'm Kiyori</h3>
 <p><em>Join me on a adventure, where code and error mingle with laughter and learning</em> 😄</p>
 </br>
