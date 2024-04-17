@@ -19,7 +19,7 @@ class My {
 }
 ```
 </br>
-<strong>I hope that all the people dropping by here find inspiration and ideas helpful 😆</br>
-And feel free to swing by my blog to check out my story. Thank you! 🙏</strong>
-
+<p><strong>I hope that all the people dropping by here find inspiration and ideas helpful 😆</br>
+And feel free to swing by my blog to check out my story. Thank you! 🙏</strong></p>
+</br>
 📪 <a href="mailto:baekki0130@gmail.com">baekki0130@gmail.com</a> 
