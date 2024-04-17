@@ -18,7 +18,7 @@ class My {
     moreFun() {}
 }
 ```
-
+</br>
 <strong>I hope that all the people dropping by here find inspiration and ideas helpful 😆</br>
 And feel free to swing by my blog to check out my story. Thank you! 🙏</strong>
 
