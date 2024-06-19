@@ -7,7 +7,7 @@ class My {
     name = 'Kiyori';
     hometown = 'Incheon, South Korea';
     skill = {
-      front: ['HTML5', 'CSS', 'ES6'],
+      front: ['HTML5', 'CSS', 'ES6', 'React'],
       back: ['Node.js'],
       db: ['MongoDB'],
     };
