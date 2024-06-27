@@ -7,9 +7,9 @@ class My {
     name = 'Kiyori';
     hometown = 'Incheon, South Korea';
     skill = {
-      front: ['HTML5', 'CSS', 'ES6', 'React'],
-      back: ['Node.js'],
-      db: ['MongoDB'],
+      frontEnd: ['HTML5', 'CSS', 'ES6', 'React', 'TypeScript'],
+      backEnd: ['Node.js'],
+      database: ['MongoDB'],
     };
 
     toBeAUXEngineer() {}
